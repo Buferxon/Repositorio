@@ -1,0 +1,7 @@
+{
+    "sly.serverUrl": "https://github.com/Buferxon/Repositorio.git",
+    "sly.remoteUser": "Buferxon",
+    "sly.remoteUserPassword": "Buf3r50n@@",
+    "sly.acceptSelfSignedCertificates": false,
+    "sly.autoSync": false
+}
